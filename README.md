@@ -8,3 +8,7 @@
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white" />
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white" />
  </div>
+ <br><br><br>
+ 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeungMin2001&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+ 
