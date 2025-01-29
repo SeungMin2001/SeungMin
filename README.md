@@ -1,4 +1,4 @@
-<p align="center">
+<p align="">
 
  <a href="https://python.org/" target="_blank">
   <span style="display: inline-block; margin-right: 10px;">
