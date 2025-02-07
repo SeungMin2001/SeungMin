@@ -18,4 +18,3 @@
     <img src="image/jupyter.svg" width="50"/>
   </span>
   
-</p>
