@@ -22,3 +22,5 @@
    <span style="display: inline-block; margin-right: 10px;">
     <img src="https://github.com/SeungMin2001/SeungMin2001/blob/main/image/Animation%20-%201738929258402.gif">
   </span>
+  <br><br><br>
+   <b>"If my code compiles on the first try, I buy a lottery ticket😂."</b>
